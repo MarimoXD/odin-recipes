@@ -1,0 +1,1 @@
+This project is for the odin course I'm doing and in this lesson I'll be learning to make a website about recipes. A simple representation of my skills at this moment. 
